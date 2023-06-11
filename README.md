@@ -3,11 +3,13 @@
 ---
 
 ### TODO
+#### Text Sentiment Classification
 
 ENV : Google Colab
+
 - [X] Review Data Crawling   
-- [ ] emotion pretrained BERT
-  - klue/kobert
+- [X] Emotion pretrained BERT
+  - klue/kobert (Hugging Face API)
 - [X] Coding  
   - 데이터 전처리
   - 트레인, 테스트 데이터 분리
