@@ -1,11 +1,13 @@
-# tensorflow
-서강대 - 정보통신대학원 (텐서플로우)
+# :fire: :fire: :fire: :fire: tensorflow
+## 서강대 - 정보통신대학원 (텐서플로우 활용기초)
+
 ---
 
 ### TODO
 #### Text Sentiment Classification
 
-ENV : Google Colab  
+개발환경 : Google Colab  
+주요기술 : klue/BERT, kolpy  
 `특이사항`: 깃허브에서 제공하는 긍정&부정 20만건 데이터 대비 0.5%를 사용하여 진행하였음.
 
 - [X] Service Flowchart, Technology Flowchart write
